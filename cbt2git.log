@@ -1,0 +1,19 @@
+2023-04-03 01:20:38.643371 - Initialized conversion of CBT605
+2023-04-03 01:20:38.747303 - Received CBT.V504.FILE605.PDS from FILE605.XMI 
+2023-04-03 01:20:38.750146 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:20:38.751346 - Found $WARNING.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/$WARNING
+2023-04-03 01:20:38.752694 - Found @FILE605.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/@FILE605
+2023-04-03 01:20:38.753766 - Found CVTUSER.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/CVTUSER
+2023-04-03 01:20:38.755255 - Found LGNIXIT.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/LGNIXIT
+2023-04-03 01:20:38.756561 - Found LGNPARMS.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/LGNPARMS
+2023-04-03 01:20:38.756574 - Found LGNPXIT.bin containing application/octet-stream, moved to PDS/LGNPXIT
+2023-04-03 01:20:38.759019 - Found NEWPXIT.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/NEWPXIT
+2023-04-03 01:20:38.760140 - Found PRTPSWD.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/PRTPSWD
+2023-04-03 01:20:38.761476 - Found PRTPSWDJ.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/PRTPSWDJ
+2023-04-03 01:20:38.762802 - Found PRTPSWD2.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/PRTPSWD2
+2023-04-03 01:20:38.764029 - Found R.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/R
+2023-04-03 01:20:38.765084 - Found SAVE#JOB.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/SAVE#JOB
+2023-04-03 01:20:38.766088 - Found SAVEPROC.txt (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/SAVEPROC
+2023-04-03 01:20:38.767071 - Found SAVEPSWD.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/SAVEPSWD
+2023-04-03 01:20:38.768252 - Found SAVEPSWJ.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/SAVEPSWJ
+2023-04-03 01:20:38.769246 - Found SEVPRE.jcl (text/plain) in CBT.V504.FILE605.PDS, moved to PDS/SEVPRE
